@@ -1,0 +1,57 @@
+.pd_title {
+  color:powderblue;
+  font-family:courier;
+  text-align:center;
+}
+
+.pd_nav {
+  background-color:rgb(10,10,10);
+}
+
+.pd_nav_link {
+  margin:20px;
+  font-family:courier;
+  color:powderblue;
+}
+
+.pd_header {
+  margin:30px;
+  font-family:courier;
+  color:powderblue;
+}
+
+.pd_text {
+  color:powderblue;
+  font-family:courier;
+  margin:40px;
+}
+
+.pd_address {
+  margin:20px;
+  color:rgb(90,90,90);
+}
+
+.pd_date_table {
+  margin:40px;
+}
+
+.pd_date_table_column_header {
+  color:powderblue;
+  font-family:courier;
+}
+
+.pd_date_table_row_header {
+  color:powderblue;
+  font-family:courier;
+
+}
+
+.pd_date_table_element {
+  color:powderblue;
+  font-family:courier;
+
+}
+
+body {
+  background-color: rgb(20,20,20);
+}
