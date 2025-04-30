@@ -8,6 +8,12 @@
   background-color:rgb(10,10,10);
 }
 
+.pd_current_link {
+  margin:20px;
+  font-family:courier;
+  color:purple;
+}
+
 .pd_nav_link {
   margin:20px;
   font-family:courier;
