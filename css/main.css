@@ -38,18 +38,18 @@
 .pd_date_table_column_header {
   color:powderblue;
   font-family:courier;
+  padding-right:100px;
 }
 
 .pd_date_table_row_header {
   color:powderblue;
   font-family:courier;
-
+  padding-right:100px;
 }
 
 .pd_date_table_element {
   color:powderblue;
   font-family:courier;
-
 }
 
 body {
