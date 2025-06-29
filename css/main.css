@@ -42,6 +42,7 @@
 }
 
 .pd_date_table_column_header {
+  text-align: left;
   color:powderblue;
   font-family:courier;
 }
